@@ -1,0 +1,15 @@
+{
+    "token": "process.env.TOKEN",
+    "prefix": "$",
+    "status": "Dev by Forstellaire",
+    "suburl": {
+        "https://discord.com/api/webhooks/956843106232320041/IvdIuFcCKmmESURTD2yjmmQYMdgqfhAuAoEny2694wsbhRF1qALXuwqFQvWaMLivCyZP": {
+            "url": "https://www.vinted.fr/vetements?size_id[]=209&catalog[]=79&brand_id[]=53&brand_id[]=14&brand_id[]=10&brand_id[]=4690593&brand_id[]=535&brand_id[]=304&brand_id[]=88&brand_id[]=94&brand_id[]=12&brand_id[]=7&brand_id[]=34&price_to=50&currency=EUR&order=newest_first",
+            "salon": "nike"
+        },
+        "https://discord.com/api/webhooks/956846469564997652/VoEm-8DQRFpWrT__kxvstoSv77MIdvXFsjCIgVW1fWk6DWUKuxhkpR5Cspm17Qi9zTFA": {
+            "url": "https://www.vinted.fr/vetements?brand_id[]=53&catalog[]=1231&order=newest_first&price_to=70.00&currency=EUR",
+            "salon": "chaussure-nike"
+        }
+    }
+}
