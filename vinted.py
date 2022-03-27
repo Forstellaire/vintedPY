@@ -128,7 +128,7 @@ with open("config.json", 'r') as config:
     configs = json.load(config)
 
 try:
-    os.system('cls')
+    os.system('clear')
 except:
     os.system('clear')
 posting = []
